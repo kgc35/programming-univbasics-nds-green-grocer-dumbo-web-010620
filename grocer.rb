@@ -70,6 +70,7 @@ def apply_coupons(cart, coupons)
     end
     counter += 1
   end
+  print cart
   cart
 end
 
